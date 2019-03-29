@@ -16,9 +16,17 @@ h1, p, div{
     Text-align: center;
 }
 body{
-    background-image:url("https://png.pngtree.com/thumb_back/fw800/back_pic/00/06/36/6856299993ea2f8.jpg");
+    background-image:url("https://i.gifer.com/iCg.gif");
+    background-repeat: no-repeat;
+    background-size:cover;
 }
 
 body{
     font-family: 'Staatliches', cursive;
+}
+.center,.name,.born,.sport{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
 }
